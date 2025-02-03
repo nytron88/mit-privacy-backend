@@ -1,4 +1,4 @@
-# mit-privacy-backend
+# MIT Media Lab Camera Culture Group Privacy Guardian Backend
 This is the backend server component of Privacy System tool writtten in Python Flask.
 
 The server component has single code base that forks multiple instances. This is Flask based app backed by Gunicorn to achieve processing multiple requests at the same time.
